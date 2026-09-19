@@ -40,8 +40,3 @@ To use the full 28x28 MNIST dataset or EMNIST (letters) instead of `load_digits`
 (X_train, y_train), (X_test, y_test) = tf.keras.datasets.mnist.load_data()
 ```
 The same CNN architecture (input_shape adjusted to `(28, 28, 1)`) works unchanged.
-
-## 🎥 Submission Checklist (InternGrow)
-- [ ] Push to GitHub as `InternGrow_AdvancedOCREngine`
-- [ ] Record project video, post on LinkedIn tagging @InternGrow, with GitHub link
-- [ ] Submit via the InternGrow submission form
